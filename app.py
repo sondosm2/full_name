@@ -34,7 +34,7 @@ page_bg_img = ''''
 <Style>
 [data-testid="stAppViewContainer"]{
 
-background-image: url(https://falakstartups.com/wp-content/uploads/2019/12/Digified-logo.png..);    
+background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwuzzuf.net%2Fjobs%2Fcareers%2FVerified-Egypt-37566&psig=AOvVaw21EgZxWoq9cGT3SJ8DTbC8&ust=1670783543832000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCcpu_X7_sCFQAAAAAdAAAAABAE..);    
 background-size: cover ;
 background-repeat: no-repeat;       
 }
