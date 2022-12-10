@@ -34,7 +34,7 @@ page_bg_img = ''''
 <Style>
 [data-testid="stAppViewContainer"]{
 
-background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwuzzuf.net%2Fjobs%2Fcareers%2FVerified-Egypt-37566&psig=AOvVaw21EgZxWoq9cGT3SJ8DTbC8&ust=1670783543832000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCcpu_X7_sCFQAAAAAdAAAAABAE..);    
+background-image: url(https://images.wuzzuf-data.net/files/company_logo/Verified-Egypt-37566-1552211585-og.png..);    
 background-size: cover ;
 background-repeat: no-repeat;       
 }
