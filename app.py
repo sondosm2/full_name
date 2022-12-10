@@ -34,7 +34,7 @@ page_bg_img = ''''
 <Style>
 [data-testid="stAppViewContainer"]{
 
-background-image: url(https://images.wuzzuf-data.net/files/company_logo/Verified-Egypt-37566-1552211585-og.png..);    
+background-image: url(https://falakstartups.com/wp-content/uploads/2019/12/Digified-logo.png..);    
 background-size: cover ;
 background-repeat: no-repeat;       
 }
