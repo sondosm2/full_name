@@ -30,10 +30,6 @@ def name(text):
     else:
             return 'correct'
 st.title("Predict Name App")
-if st.checkbox("Show dataset"):
-    st.dataframe(pd.read_csv('final_data.csv'))
-if st.checkbox("Dataset after threshold"):
-    st.dataframe(pd.read_csv('test_data.csv'))
 
 if st.checkbox("Full code"):
     st.text('''
